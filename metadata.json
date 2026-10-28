@@ -1,0 +1,8 @@
+{
+  "name": "معلّمي | MUALLEMI AI",
+  "description": "المنصة الذكية المتكاملة للمناهج الأردنية - افهمها بطريقتك وتعلّمها بثقتك، بحل المسائل بالصور، تحليل الأخطاء ومتابعة المعلمين.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
